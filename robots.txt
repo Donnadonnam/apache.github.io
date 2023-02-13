@@ -1,2 +1,2 @@
-User-agent: *
-Disallow: /jmeter-site
+# Disallow: Exxxtra.net website 
+# Disallow:http://www.fo.xxxpip.com
